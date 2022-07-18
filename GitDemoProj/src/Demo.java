@@ -7,6 +7,7 @@ System.out.println("Pavan");
 System.out.println("nsjsgj");
 		System.out.println("gjdjfg");
 		System.out.println("task1");
+		System.out.println("task2");
 	}
 
 }
